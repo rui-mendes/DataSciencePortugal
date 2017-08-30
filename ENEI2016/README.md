@@ -1,9 +1,9 @@
-#DataSciencePortugal
+# DataSciencePortugal
 
-##ENEI Workshop
+## ENEI Workshop
 
-###30 october 2016 - Aveiro (Portugal)
+### 30th October 2016 - Aveiro (Portugal)
 
-####Introduction to Data Science with Python 
+#### Introduction to Data Science with Python 
 
-URL: https://www.meetup.com/datascienceportugal/ENEI2016
+URL: https://www.meetup.com/datascienceportugal
